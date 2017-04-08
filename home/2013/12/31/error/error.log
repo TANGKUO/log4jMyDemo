@@ -1,0 +1,9 @@
+[ERROR] [2013/12/31 15:17:11:984]   method:com.ber.modelB.Log4jPrintModelB.main(Log4jPrintModelB.java:24)
+logger print ERROR message from modelB
+   [ERROR] [2013/12/31 15:17:18:468]   method:com.ber.modelC.Log4jPrintModelC.main(Log4jPrintModelC.java:26)
+logger print ERROR message from modelC 
+   [ERROR] [2013/12/31 15:17:21:531]   method:com.ber.modelC.Log4jPrintModelC.main(Log4jPrintModelC.java:26)
+logger print ERROR message from modelC 
+   [ERROR] [2013/12/31 15:17:24:718]   method:com.ber.modelC.Log4jPrintModelC.main(Log4jPrintModelC.java:26)
+logger print ERROR message from modelC 
+   
