@@ -5,7 +5,7 @@ import org.apache.log4j.PropertyConfigurator;
 
 /*
  * Date:2013/12/29  
- * Author: 唐  阔  
+ * Author: 唐  阔   
  * 
  */
 public class Log4jPrintModelA {
