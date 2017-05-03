@@ -17,7 +17,7 @@ public class MyLog4jRollingFileAppender extends RollingFileAppender {
 	private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
 
 	
-	public void rollOver() {
+	public void rollOver() { 
 		File target;
 		File file;
 		int maxBackupIndexLeng = String.valueOf(maxBackupIndex).length();
