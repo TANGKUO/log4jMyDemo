@@ -8,7 +8,7 @@ import org.apache.log4j.PropertyConfigurator;
  * Author: 唐阔
  * 
  */
-public class Log4jPrintModelA { 
+public class Log4jPrintModelA {   
 	
 	//获得记录器.
 	private static Logger logger = Logger.getLogger("com.ber.modelA");
